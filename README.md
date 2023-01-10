@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kameshwadhai
-- 👀 I’m Data Science Enthusiast
-- 🌱 I’m currently learning Python
+- 👀 I’m Cyber Security Enthusiast
+- 🌱 I’m currently learning to hunt bugs
 - 💞️ I’m looking to collaborate on ML Projects
 - 📫 Reach me at
 - linkedin: linkedin.com/in/kameshwadhai
